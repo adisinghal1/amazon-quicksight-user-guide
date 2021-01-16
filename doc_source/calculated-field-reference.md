@@ -306,7 +306,7 @@ When you are analyzing data in a specific visual, you can apply table calculatio
 
 In this section, you can find a list of the functions available in table calculations that you can perform on visualized data in Amazon QuickSight\. 
 
-To view a list of functions sorted by category, with brief definitions, see [Functions by Category](#functions-by-category)\.
+To view a list of functions sorted by category, with brief definitions, see [Functions by Category](#functions-by-category).
 
 **Topics**
 + [`runningSum`](runningSum-function.md)
